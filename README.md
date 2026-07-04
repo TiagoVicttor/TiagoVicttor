@@ -56,12 +56,16 @@ Implementações de Programação Dinâmica, Backtracking, Métodos Gulosos e ou
 
 ## 📊 GitHub Stats
 
-<div>
-<a href="https://github.com/TiagoVicttor">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoVicttor&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoVicttor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
----
+<p align="center">
+  <img
+    height="160em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=TiagoVicttor&show_icons=true&theme=dracula"
+  />
+  <img
+    height="160em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TiagoVicttor&layout=compact&theme=dracula"
+  />
+</p>
 
 ## 🔥 GitHub Streak
 
