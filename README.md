@@ -58,11 +58,11 @@ Implementações de Programação Dinâmica, Backtracking, Métodos Gulosos e ou
 
 <p align="center">
   <img
-    height="150em"
+    height="130em"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=TiagoVicttor&show_icons=true&theme=dracula"
   />
   <img
-    height="150em"
+    height="130em"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TiagoVicttor&layout=compact&theme=dracula"
   />
 </p>
