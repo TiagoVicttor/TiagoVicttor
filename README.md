@@ -95,4 +95,7 @@ Implementações de Programação Dinâmica, Backtracking, Métodos Gulosos e ou
 
 ### "Sempre aprendendo, sempre construindo." 🚀
 
+![Snake animation](https://github.com/TiagoVicttor/TiagoVicttor/blob/output/github-contribution-grid-snake.svg)
+
+
 </div>
