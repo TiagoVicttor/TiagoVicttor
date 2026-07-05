@@ -1,60 +1,18 @@
-<div align="center">
+<div>
 
-# Olá, eu sou o Tiago! 👋
+### Olá, eu sou o Tiago! 👋
 
 ### 💻 Estudante de Ciência da Computação | Game Developer | C/C++
 
 Sou apaixonado por tecnologia, desenvolvimento de software e criação de jogos. Atualmente estou aprofundando meus conhecimentos em algoritmos, estruturas de dados e desenvolvimento de jogos utilizando SDL2.
 
----
-
-🚀 Tecnologias
+### 🚀 Tecnologias
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode" />
 </p>
 
----
-
-### 📚 Atualmente estudando
-
-🧠 Estruturas de Dados
-
-⚙️ Algoritmos
-
-🎮 Desenvolvimento de Jogos com SDL2
-
-📐 Cálculo
-
-💻 Engenharia de Software
-
----
-
-## 🎯 Objetivos
-
-✨ Evoluir como Desenvolvedor de Software
-
-🎮 Criar jogos completos em C/C++
-
-🌎 Contribuir para projetos Open Source
-
-📖 Aprender novas tecnologias continuamente
-
----
-
-## 📌 Projetos em destaque
-
-🎮 **Jogo 2D em SDL2**
-
-Projeto desenvolvido em C utilizando SDL2, com sistema de combate, animações, cenários, checkpoints, menus, efeitos sonoros e gerenciamento de estados.
-
-📚 **Algoritmos e Estruturas de Dados**
-
-Implementações de Programação Dinâmica, Backtracking, Métodos Gulosos e outros algoritmos clássicos.
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img
@@ -73,23 +31,13 @@ Implementações de Programação Dinâmica, Backtracking, Métodos Gulosos e ou
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🔥 GitHub Streak
+### 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=TiagoVicttor&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 📈 Contribuições
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoVicttor&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 📫 Contato
+### 📫 Contato
 
 <div>
 <a href="https://instagram.com/tiago_victtor" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -97,7 +45,6 @@ Implementações de Programação Dinâmica, Backtracking, Métodos Gulosos e ou
 <a href="https://www.linkedin.com/in/tiago-victtorazzi" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
----
 
 ### "Sempre aprendendo, sempre construindo." 🚀
 
